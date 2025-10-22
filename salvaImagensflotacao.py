@@ -123,7 +123,7 @@ cameras = [
 ]
 
 # Intervalo entre capturas (segundos) – ajuste se quiser
-INTERVALO = 20
+INTERVALO = 3600  # 3600s = 1 hora
 
 # ===================== INICIALIZAÇÃO =====================
 
